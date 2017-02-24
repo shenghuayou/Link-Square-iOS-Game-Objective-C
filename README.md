@@ -2,8 +2,8 @@
 This is my first iOS game was created in summer 2015, and it was published on app store (it was removed from app store after my iOS app developer ends). The idea is based on trees and nodes algorithm. I was new to programming, and I have a lot of redundance on my codes, messy folders. But anyway, i finished this game.
 
 ## To compile this game on your computer ##
-* You will need Xcode
-* You will need iOS simulator
+* You will need <b>Xcode</b>
+* You will need <b>iOS simulator</b>
 
 ## How to play the game? ##
 * You try to reduce values of numbers by link them together
