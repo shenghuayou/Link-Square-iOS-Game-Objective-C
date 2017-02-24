@@ -1,5 +1,5 @@
 # Link-Square-iOS-Game-Objective-C
-This is my first iOS game was created in summer 2015, and it was published on app store. The idea is based on trees and nodes algorithm. I was new to programming, and I have a lot of redundance on my codes, messy folders. But anyway, i finished this game.
+This is my first iOS game was created in summer 2015, and it was published on app store (it was removed from app store after my iOS app developer ends). The idea is based on trees and nodes algorithm. I was new to programming, and I have a lot of redundance on my codes, messy folders. But anyway, i finished this game.
 
 ## To compile this game on your computer ##
 * You will need Xcode
@@ -13,6 +13,9 @@ This is my first iOS game was created in summer 2015, and it was published on ap
 
 ## Rules of the game
 <img src=https://github.com/shenghuayou/Link-Square-iOS-Objective-C/blob/master/Link%20Square/RuleContent2.png />
+
+## Information on app store
+<img src=https://github.com/shenghuayou/Link-Square-iOS-Objective-C/blob/master/appstore.png/>
 
 ## Additional infomation ##
 I unlock all the levels in the game. If you find difficulty to solve some levels, checkout <a href="https://github.com/shenghuayou/Link-Square-iOS-Objective-C/tree/master/LinkSquareSolu"/>LinkSquareSolu</a> folder.
