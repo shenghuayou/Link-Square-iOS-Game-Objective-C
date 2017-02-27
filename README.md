@@ -13,9 +13,11 @@ This is my first iOS game was created in summer 2015, and it was published on ap
 
 ## Rules of the game
 <img src=https://github.com/shenghuayou/Link-Square-iOS-Objective-C/blob/master/Link%20Square/RuleContent2.png />
+***
 
 ## Information on app store
 <img src=https://github.com/shenghuayou/Link-Square-iOS-Objective-C/blob/master/appstore.png/>
+***
 
 ## Additional infomation ##
 I unlock all the levels in the game. If you find difficulty to solve some levels, checkout <a href="https://github.com/shenghuayou/Link-Square-iOS-Objective-C/tree/master/LinkSquareSolu"/>LinkSquareSolu</a> folder.
